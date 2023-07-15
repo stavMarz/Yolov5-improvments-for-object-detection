@@ -1,0 +1,6 @@
+train: /content/datasets/training/
+val: /content/datasets/validation/
+test: /content/datasets/test/
+
+nc: 2
+names: ['Clog', 'Leak']
