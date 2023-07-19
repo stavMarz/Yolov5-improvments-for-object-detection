@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains code for evaluating the performance improvements made to the YOLOv5 model. The modifications were made to enhance object detection accuracy and generalization capabilities.
+This repository contains code for evaluating the performance improvements made to the YOLOv5 model. The modifications were made to enhance object detection accuracy and generalization capabilities. The 'YAML' files contains only the configuration that led to improvement of the model yolov5s. 
 
 ## Execution
 
